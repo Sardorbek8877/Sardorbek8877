@@ -11,7 +11,7 @@
   
 <h2 align="left">👨🏻‍💻 Über Mich:</h2>
 
-- :computer: Ich studiere Informatik ander Technische Universität Dortmund
+- :computer: Ich studiere Informatik an der Technische Universität Dortmund
 - :hourglass_flowing_sand:  Ich beschäftige mich zurzeit mit Java Spring Boot und "Datenstruktur und Algorithmen"
 - :muscle: Ich mag Fitness
 - :rocket: Ich mag immer etwas neues probieren
