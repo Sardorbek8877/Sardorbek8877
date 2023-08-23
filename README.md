@@ -1,7 +1,6 @@
-<h1 align="center">Sardorbek - Java Back End Developer</h1>
+<h1 align="center">Sardorbek Safarov | Java Backend Entwickler | Informatik-Student</h1>
 
 ## Hallo zusammen! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-### Sardorbek Safarov | Java Backend Entwickler | Informatik-Student
 Informatikstudent an der Technischen Universität Dortmund. Aktuelle Tätigkeiten umfassen die Backend-Entwicklung bei FELIZA und IT-spezifische Rollen bei CORVIS Family Office. Meine Technologie-Expertise erstreckt sich über Java, Python, Spring Boot und PostgreSQL. Fließend in Deutsch, Russisch und Usbekisch. Interessiert an Softwareentwicklungsprojekten, IT-Lösungen und branchenübergreifendem Networking.
 
 
