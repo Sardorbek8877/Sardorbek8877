@@ -10,12 +10,6 @@ Informatikstudent an der Technischen Universität Dortmund. Aktuelle Tätigkeite
 [![Telegram Badge](https://img.shields.io/badge/@SardorbekSafarov8877-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/SardorbekSafarov8877)](https://t.me/SardorbekSafarov8877) 
 
   
-<h2 align="left">👨🏻‍💻 Über Mich:</h2>
-
-- :computer: Ich studiere Informatik an der Technische Universität Dortmund
-- :hourglass_flowing_sand:  Ich beschäftige mich zurzeit mit Java Spring Boot und "Datenstruktur und Algorithmen"
-- :muscle: Ich mag Fitness
-- :rocket: Ich mag immer etwas neues probieren
 
 ## ⚡ Technologien
 
