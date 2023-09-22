@@ -1,4 +1,4 @@
-<h1 align="center">Sardorbek Safarov | Java Backend Entwickler | Informatik-Student</h1>
+<h1 align="center">Sardorbek Safarov | Java Backend developer</h1>
 
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 I am a Java Backend Developer with experience in backend development at FELIZA and IT-specific roles at CORVIS Family Office. My technological expertise encompasses Java, Python, Spring Boot, and PostgreSQL. I am fluent in German, Russian, and Uzbek languages. I have a keen interest in software development projects, IT solutions, and cross-industry networking.
