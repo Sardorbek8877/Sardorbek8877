@@ -11,7 +11,7 @@ I am a Java Backend Developer with experience in backend development at FELIZA a
 
   
 
-## ⚡ Technologien
+## ⚡ Technologies
 
 ![Image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Image](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E)
